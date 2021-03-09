@@ -14,6 +14,7 @@ This would be very useful for beginners as they'll be able to find whatever DSA 
 
 ## Practice makes perfect!
 * Clone the project to your local space.
+	* `$ git clone https://github.com/rukshan99/DataStructures-Algorithms.git`
 * Run the codes you want and study whats going on.
 * Try to write your own code by making some tweaks. 
 
