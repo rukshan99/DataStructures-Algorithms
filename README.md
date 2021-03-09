@@ -31,3 +31,4 @@ This would be very useful for beginners as they'll be able to find whatever DSA 
 	* [Insertion Sort](https://github.com/rukshan99/DataStructures-Algorithms/blob/main/src/sorting/InsertionSort.java)
 	* [Merge Sort](https://github.com/rukshan99/DataStructures-Algorithms/blob/main/src/sorting/MergeSort.java)
 	* [Quick Sort](https://github.com/rukshan99/DataStructures-Algorithms/blob/main/src/sorting/QuickSort.java)
+	* [Heap Sort](https://github.com/rukshan99/DataStructures-Algorithms/blob/main/src/sorting/HeapSort.java)
