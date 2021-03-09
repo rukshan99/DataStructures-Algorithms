@@ -4,7 +4,7 @@ public class QuickSort {
 	public static void main(String[] args) {
 		int i;
 		int[] arr = { 90, 23, 101, 45, 65, 23, 67, 89, 34, 23 };
-		System.out.println("\nThe initial array is:");
+		System.out.println("The initial array is:");
 		for (i = 0; i < 10; i++)
 			System.out.print(arr[i] + " ");
 		
