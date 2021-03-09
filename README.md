@@ -17,7 +17,7 @@ As an undergraduate "Data Structures and Algorithms" module was a headache to me
 * [Doubly Linked List](https://github.com/rukshan99/DataStructures-Algorithms)
 * [Circular Linked List](https://github.com/rukshan99/DataStructures-Algorithms)
 * [Sorting Algorithms]()
-*  [Bubble Sort]()
+*     [Bubble Sort]()
 *  [Insertion Sort]()
 *  [Merge Sort]()
 *  [Quick Sort]()
