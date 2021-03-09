@@ -1,4 +1,4 @@
-[![Header](https://ibb.co/d2wH8Jg "Header")](https://linkedin.com/in/rukshanjayasekara)
+[![Header](https://i.ibb.co/YkFVHTZ/cover.png "Header")](https://linkedin.com/in/rukshanjayasekara)
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
