@@ -21,7 +21,7 @@ This would be very useful for beginners as they'll be able to find whatever DSA 
 ## Table of contents
 * [Linked Lists](https://github.com/rukshan99/DataStructures-Algorithms/tree/main/src/linked_list)
 	* [Normal Linked List](https://github.com/rukshan99/DataStructures-Algorithms/tree/main/src/linked_list) 
-	* [Doubly Linked List]() (T.B.D)
+	* [Doubly Linked List](https://github.com/rukshan99/DataStructures-Algorithms/blob/main/src/linked_list/DoublyLinkedList.java)
 	* [Circular Linked List]() (T.B.D)
 * [Queue]()	(T.B.D)
 * [Stack]()	(T.B.D)
